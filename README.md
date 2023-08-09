@@ -1,0 +1,1 @@
+This is the first Odin project. It tasks you with creating a some simple recipes which are linked to a home page. Each recipe has its own page with an image of the finished food, description, ingredient list, and steps for cooking the dish.
